@@ -1,4 +1,4 @@
-# ✅ PROJECT-17
+# ✅ PROJECT-18
 
 A Super Brinquedos, uma loja de brinquedos bem estabelecida e reconhecida, recentemente embarcou em uma jornada de modernização ao buscar nossa expertise para impulsionar sua plataforma de Business Analytics. Com a iminência do Dia das Crianças, a empresa enxergou uma oportunidade estratégica para aumentar suas vendas e, nesse contexto, o Gestor Comercial solicitou a criação de um Dashboard que permitisse avaliar o desempenho atual da loja e elaborar estratégias embasadas em dados históricos. Nossa abordagem inicial consistiu na integração dos dados provenientes do sistema ERP da Super Brinquedos. Utilizamos consultas diretas ao banco de dados e convertemos esses dados em arquivos CSV, que serviram como base para o desenvolvimento de um protótipo do painel. Esses dados abrangem informações fundamentais, incluindo detalhes sobre produtos disponíveis, dados dos vendedores e histórico das transações de vendas.
 
