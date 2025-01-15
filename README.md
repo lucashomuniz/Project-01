@@ -24,7 +24,7 @@ The first analysis aimed to identify the top-selling products, using the variabl
 
 This suggests that product number 26 may have a higher unit profit margin compared to product 77. In fact, the profit margin of product 26 is 50.51%, while that of product 77 is 50.13%. Theoretically, this difference may offset the disparity in the quantity of units sold. Thus, even if a product doesn't have high sales volume, it can still be considered a sales leader due to various factors such as higher profit margin, unit price, specific demand, product lifecycle, and marketing strategies.
 
-<img width="1135" alt="image" src="https://github.com/lucashomuniz/PROJECT-18/assets/123151332/91d03a49-cc96-42c4-a3a4-467c77e6c0f4">
+![Screenshot 2025-01-15 at 15 56 59](https://github.com/user-attachments/assets/bb3e52b2-0e2b-4fc3-95ab-26b0e71fccb6)
 
 QUESTION 2:
 
@@ -32,7 +32,7 @@ The second analysis aimed to identify products with the best and worst profit ma
 
 Theoretically, a product's profit margin is influenced by various factors, with two being crucial, as the formula exemplifies: production cost and selling price. Products with lower production costs tend to have higher profit margins, as a smaller proportion of revenue is consumed by manufacturing costs. Additionally, selling price also plays an essential role in determining a product's margin. When a product is sold at a price higher than its production costs, the profit margin tends to be higher. However, if the selling price is close to or lower than production costs, the profit margin will be low or even negative. Therefore, although it's a simple and intuitive explanation, it's important to highlight that the interaction between production cost and selling price is crucial in determining a product's profitability.
 
-<img width="1163" alt="image" src="https://github.com/lucashomuniz/PROJECT-18/assets/123151332/c76b42e0-7289-47b2-8229-6597dd6d829b">
+![Screenshot 2025-01-15 at 15 57 38](https://github.com/user-attachments/assets/2606f316-d49b-4628-a8b2-640d34caf2c7)
 
 
 QUESTION 3:
@@ -41,7 +41,7 @@ The third question addressed the evolution of sales in terms of volume, value, a
 
 However, despite the fluctuations in sales volumes and values, the profit margin remained relatively stable throughout the analyzed period. This suggests consistency in the product's profitability, with a profit margin that remained around 50% throughout the year. This stability in the margin indicates effective cost management and a solid pricing strategy, ensuring reliable financial performance for the product in question.
 
-<img width="1177" alt="image" src="https://github.com/lucashomuniz/PROJECT-18/assets/123151332/856173d6-3b09-4c8c-9750-762d0fe3c065">
+![Screenshot 2025-01-15 at 15 58 02](https://github.com/user-attachments/assets/1c6100ac-c636-422f-b765-3caf2a481ac3)
 
 QUESTION 4:
 
@@ -51,7 +51,7 @@ The products that excel in this aspect are those that appear on both lists: thos
 
 These items are particularly interesting because they not only generate significant total sales revenue, as indicated by the total value but also maintain a substantial profit margin. This suggests that they are popular products with good demand, providing the company with satisfactory financial returns.
 
-<img width="1175" alt="image" src="https://github.com/lucashomuniz/PROJECT-18/assets/123151332/1fb84ca9-9c54-4666-8248-cf45d3d3accc">
+![Screenshot 2025-01-15 at 15 58 18](https://github.com/user-attachments/assets/af1da9d5-5257-4c56-9ac5-af8bacaf3ffb)
 
 QUESTION 5:
 
@@ -63,7 +63,5 @@ These fluctuations continued in the subsequent months, with a slight decrease of
 
 When analyzing the sales growth year-to-date, we observe a decreasing trend over the period. Annual growth gradually decreased, from about 90.15% in February to approximately 7.36% in August. This suggests a slowdown in the pace of sales growth throughout the year 2023, providing valuable insights for formulating strategies to optimize sales performance.
 
-<img width="1177" alt="image" src="https://github.com/lucashomuniz/PROJECT-18/assets/123151332/964eab64-22de-40ee-92e2-5d02992d9332">
-
-
+![Screenshot 2025-01-15 at 15 58 39](https://github.com/user-attachments/assets/b1127ec0-6f89-41ab-a692-6d82f14c48d4)
 
