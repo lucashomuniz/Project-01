@@ -4,7 +4,9 @@ The Super Brinquedos, a well-established and recognized toy store, recently emba
 
 Our main goal was to create an interactive and informative dashboard aligned with the requirements outlined in the initial document. Leveraging our solid expertise in visualization construction, we proposed a variety of charts and layouts to facilitate the necessary analyses. Additionally, we explored the possibility of incorporating external data and identifying new insights to further enrich the analysis. The developed dashboard aims to uncover valuable insights, such as the correlation between specific products and periods of the year, cross-selling and up-selling opportunities, as well as emerging trends in consumer behavior. These findings focus on providing Super Brinquedos with a significant competitive advantage, enabling the company to adapt agilely to market changes and customer demands.
 
-Keywords: PowerBI, PowerQuery, DAX, Google Cloud Plataform, Business Analytics, Python Language, Data Visualization, Data Analysis.
+**Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Plataform, Business Analytics, Python Language, Data Visualization, Data Analysis.
+
+**Dashboard Links**: https://app.powerbi.com/groups/me/reports/63561622-65c3-4517-b4ae-ea9e982b5b33?ctid=18a01ad8-9727-498a-a47d-17374c6fd9f7&pbi_source=linkShare
 
 # ✅ PROCESS
 
