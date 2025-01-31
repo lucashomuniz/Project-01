@@ -1,4 +1,4 @@
-# ✅ PROJECT-18
+# ✅ PROJECT-09
 
 In this project, **Super Brinquedos**, a renowned toy store, sought to modernize its **Business Analytics** platform to capitalize on the upcoming **Children's Day** and drive **sales growth**. The **Commercial Manager** requested an **interactive dashboard** to evaluate the store's performance and support **data-driven strategies** based on historical data. Our approach began by integrating data directly from **Super Brinquedos' ERP system** through database queries, exporting the results as **CSV files**. These datasets provided essential information, including **product details**, **salesperson data**, and **sales transaction history**, forming the foundation for the dashboard prototype.
 
