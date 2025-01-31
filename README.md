@@ -1,4 +1,4 @@
-# ✅ PROJECT-03
+# ✅ PROJECT-01
 
 The project proposes an **innovative approach** to **statistical analysis**, integrating **parametric** and **non-parametric tests** with automated selection based on analysis objectives. By leveraging an **interactive Dashboard**, the initiative aims to streamline the statistical process, enabling users to perform analyses efficiently and accurately. The proper use and interpretation of **statistical tests** are crucial for extracting **reliable** and **meaningful insights** from data. These tests support **statistical inferences** and informed decisions regarding **differences**, **associations**, or **correlations**. However, selecting the appropriate test can be complex, requiring deep knowledge of **data characteristics** and **test assumptions**.
 
