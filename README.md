@@ -6,8 +6,6 @@ The primary objective was to design a user-friendly, **data-rich dashboard** tha
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Plataform, Business Analytics, Python Language, Data Visualization, Data Analysis.
 
-**Dashboard Links**: https://app.powerbi.com/groups/me/reports/63561622-65c3-4517-b4ae-ea9e982b5b33?ctid=18a01ad8-9727-498a-a47d-17374c6fd9f7&pbi_source=linkShare
-
 # ✅ PROCESS
 
 In this project, we adopted a **comprehensive, multidisciplinary approach** to address the proposed challenges. Using the **Python** programming language and the **Pandas library**, we conducted the initial **data analysis**, enabling complex **data manipulation** and **processing**. This allowed us to integrate datasets such as **dim_produto** (product data), **dim_vendas** (sales), and **fato_vendas** (transactions), which were critical to understanding **Super Brinquedos'** operational scenario.
