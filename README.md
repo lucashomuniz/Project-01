@@ -6,8 +6,6 @@ The primary objective was to design a user-friendly, **data-rich dashboard** tha
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Plataform, Business Analytics, Python Language, Data Visualization, Data Analysis.
 
-**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=48b80245-edaa-411c-85a2-c684ae4aa9b0&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
-
 # ✅ PROCESS
 
 In this project, we adopted a **comprehensive, multidisciplinary approach** to address the proposed challenges. Using the **Python** programming language and the **Pandas library**, we conducted the initial **data analysis**, enabling complex **data manipulation** and **processing**. This allowed us to integrate datasets such as **dim_produto** (product data), **dim_vendas** (sales), and **fato_vendas** (transactions), which were critical to understanding **Super Brinquedos'** operational scenario.
@@ -43,3 +41,6 @@ The analysis addressed the question: **"What was the percentage variation in sal
 In the subsequent months, fluctuations continued: **June** saw a slight decrease of **-2.61%**, **July** recorded a larger drop of **-11.27%**, and **August** experienced a sharp decline of **-42.86%** compared to July. When analyzing the **year-to-date sales growth**, a gradual decline was observed throughout 2023. The annual growth rate decreased from **90.15%** in February to **7.36%** in August. This trend indicates a **slowdown in sales growth** over the year, offering critical insights for **strategic planning** aimed at improving sales performance and addressing potential market challenges.
 
 ![Screen Recording 2025-03-11 at 15 09 34](https://github.com/user-attachments/assets/2171dbc9-6c15-4576-bb85-17516413cdaf)
+
+**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=48b80245-edaa-411c-85a2-c684ae4aa9b0&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
+
