@@ -42,7 +42,4 @@ The analysis addressed the question: **"What was the percentage variation in sal
 
 In the subsequent months, fluctuations continued: **June** saw a slight decrease of **-2.61%**, **July** recorded a larger drop of **-11.27%**, and **August** experienced a sharp decline of **-42.86%** compared to July. When analyzing the **year-to-date sales growth**, a gradual decline was observed throughout 2023. The annual growth rate decreased from **90.15%** in February to **7.36%** in August. This trend indicates a **slowdown in sales growth** over the year, offering critical insights for **strategic planning** aimed at improving sales performance and addressing potential market challenges.
 
-![Screenshot 2025-03-10 at 16 44 14](https://github.com/user-attachments/assets/5e3a1e39-e780-4677-92b1-10c54549c16f)
-
 ![Screen Recording 2025-03-11 at 15 09 34](https://github.com/user-attachments/assets/2171dbc9-6c15-4576-bb85-17516413cdaf)
-
