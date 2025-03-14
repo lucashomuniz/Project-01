@@ -42,5 +42,5 @@ In the subsequent months, fluctuations continued: **June** saw a slight decrease
 
 ![Screen Recording 2025-03-11 at 15 09 34](https://github.com/user-attachments/assets/2171dbc9-6c15-4576-bb85-17516413cdaf)
 
-**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=48b80245-edaa-411c-85a2-c684ae4aa9b0&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
+**Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiYzNkYjlmOGEtOTE3Mi00ODM1LTg3YzktNjI1ZmNjNmM3OTM1IiwidCI6ImQ2OWE3NzgzLWU5MzctNDIzMi1iYTg1LTIwOTg0MDgzODJjOCJ9
 
